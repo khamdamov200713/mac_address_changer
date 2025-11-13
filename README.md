@@ -34,7 +34,7 @@ python2 mac_changer.py --interface eth0 --mac 00:11:22:33:44:55
 ---
 
 ## 🧩 Requirements
-- Python 3+
+- Python 
 - Linux (Ubuntu, Debian, Kali, etc.)
 
 ```bash
